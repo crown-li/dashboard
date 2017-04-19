@@ -41,8 +41,8 @@ canvas仪表盘式进度
         mathY:70,//数字文本绘制起点y
     }
   
-  本插件基于jq库,主要js为dashboard.js所以要引用:
-     <script src="js/jquery-3.1.1.min.js" type="text/javascript" charset="utf-8"></script>
+  本插件基于jq库,主要js为dashboard.js所以要引用:<br/>
+     <script src="js/jquery-3.1.1.min.js" type="text/javascript" charset="utf-8"></script><br/>
      <script src="js/dashboard.js" type="text/javascript" charset="utf-8"></script>
   
  
